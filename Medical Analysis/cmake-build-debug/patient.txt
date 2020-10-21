@@ -1,0 +1,9 @@
+BMI, 2000.04.08, 19.000000
+Person is not ill!
+
+BP, 2001.04.29, 100, 69
+Person is not ill!
+
+BMI, 2003.05.23, 120.000000
+Person is ill!
+

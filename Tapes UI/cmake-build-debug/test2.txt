@@ -1,0 +1,5 @@
+T1,restaurant,01-03-2000,1,preview1.mp4
+T2,restaurant,03-10-1982,2,preview2.mp4
+T3,restaurant,05-09-1876,3,preview3.mp4
+T4,restaurant,31-08-1753,4,preview4.mp4
+T5,restaurant,04-08-2000,5,preview5.mp4

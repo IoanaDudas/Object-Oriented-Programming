@@ -1,0 +1,8 @@
+1, helicopter, military, medical emergencies, public transportation, 12
+2, plane, military, public transportation, leisure time, 26
+4, helicopter, military, medical emergencies, public transportation, leisure time, 12
+5, plane, military, public transportation, 26
+1, helicopter, military, medical emergencies, public transportation, 12, state
+2, plane, military, public transportation, leisure time, 26, private, biplane
+4, helicopter, military, medical emergencies, public transportation, leisure time, 12, private
+5, plane, military, public transportation, 26, state, monoplane

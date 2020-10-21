@@ -1,0 +1,13 @@
+path file:
+    fileLocation /Users/ioana/Documents/Sem2/OOP/Assigment8/cmake-build-debug/test.txt
+    mylistLocation /Users/ioana/Documents/Sem2/OOP/Assigment8/cmake-build-debug/test.html
+
+path file:
+    fileLocation test2.txt
+    mylistLocation test2.csv
+
+add T1, restaurant, 01-03-2000, 1, preview1.mp4
+add T2, restaurant, 03-10-1982, 2, preview2.mp4
+add T3, restaurant, 05-09-1876, 3, preview3.mp4
+add T4, restaurant, 31-08-1753, 4, preview4.mp4
+add T5, restaurant, 04-08-2000, 5, preview5.mp4

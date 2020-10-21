@@ -1,0 +1,6 @@
+add 1, helicopter, state
+add 2, plane, private, biplane
+add 3, hot air balloon, 50
+add 4, helicopter, private
+add 5, plane, state, monoplane
+add 6, hot air balloon, 70

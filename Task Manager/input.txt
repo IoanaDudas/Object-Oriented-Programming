@@ -1,0 +1,5 @@
+oop,120,1
+email,45,2
+sushi,30,3
+parent,240,1
+jacket,120,2

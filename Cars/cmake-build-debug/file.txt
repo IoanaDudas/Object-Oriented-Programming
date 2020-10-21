@@ -1,0 +1,5 @@
+Mercedes-Benz | SUV | 2013 | blue
+Fiat | Bravo | 2007 | red
+Renault | Clio | 2019 | magenta
+Fiat | Bravo | 2009 | dark cyan
+Fiat | Bravo | 2015 | dark grey

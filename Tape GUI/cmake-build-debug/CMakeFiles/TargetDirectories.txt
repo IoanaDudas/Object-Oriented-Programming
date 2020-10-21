@@ -1,0 +1,4 @@
+/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/CMakeFiles/Assigment12.dir
+/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/CMakeFiles/Assigment12_autogen.dir

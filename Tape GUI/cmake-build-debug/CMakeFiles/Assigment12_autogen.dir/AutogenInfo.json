@@ -1,0 +1,191 @@
+{
+	"BUILD_DIR" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/Assigment12_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/ioana/Documents/Sem2/OOP/Assigment12",
+	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/Users/ioana/Documents/Sem2/OOP/Assigment12",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Action.h",
+			"MU",
+			"EWIEGA46WW/moc_Action.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/CSVRepositoryHelper.h",
+			"MU",
+			"EWIEGA46WW/moc_CSVRepositoryHelper.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/DynamicVector.h",
+			"MU",
+			"EWIEGA46WW/moc_DynamicVector.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Exceptions.h",
+			"MU",
+			"EWIEGA46WW/moc_Exceptions.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/FileRepository.h",
+			"MU",
+			"EWIEGA46WW/moc_FileRepository.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/GUI.h",
+			"MU",
+			"EWIEGA46WW/moc_GUI.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/HTMLRepositoryHelper.h",
+			"MU",
+			"EWIEGA46WW/moc_HTMLRepositoryHelper.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/InMemoryRepository.h",
+			"MU",
+			"EWIEGA46WW/moc_InMemoryRepository.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/InMemoryRepositoryHelper.h",
+			"MU",
+			"EWIEGA46WW/moc_InMemoryRepositoryHelper.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Observer.h",
+			"MU",
+			"EWIEGA46WW/moc_Observer.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Repository.h",
+			"MU",
+			"EWIEGA46WW/moc_Repository.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/RepositoryHelper.h",
+			"MU",
+			"EWIEGA46WW/moc_RepositoryHelper.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Service.h",
+			"MU",
+			"EWIEGA46WW/moc_Service.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Tape.h",
+			"MU",
+			"EWIEGA46WW/moc_Tape.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/Validator.h",
+			"MU",
+			"EWIEGA46WW/moc_Validator.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/mylistGUI.h",
+			"MU",
+			"EWIEGA46WW/moc_mylistGUI.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/mylistModel.h",
+			"MU",
+			"EWIEGA46WW/moc_mylistModel.cpp"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/test.h",
+			"MU",
+			"EWIEGA46WW/moc_test.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/Assigment12_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/Assigment12_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/ioana/Documents/Sem2/OOP/Assigment12",
+		"/Users/ioana/Documents/Sem2/OOP/test13/cmake-build-debug/Assigment12_autogen/include",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/lib/QtCore.framework",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/lib/QtCore.framework/Headers",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/mkspecs/macx-clang",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/lib/QtWidgets.framework",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/lib/QtWidgets.framework/Headers",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/lib/QtGui.framework",
+		"/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/Assigment12_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/CMakeFiles/Assigment12_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/ioana/Documents/Sem2/OOP/Qt/5.14.2/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "/Users/ioana/Documents/Sem2/OOP/Assigment12/cmake-build-debug/CMakeFiles/Assigment12_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/Action.cpp", "MU" ],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/CSVRepositoryHelper.cpp",
+			"MU"
+		],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/Exceptions.cpp", "MU" ],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/FileRepository.cpp",
+			"MU"
+		],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/GUI.cpp", "MU" ],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/HTMLRepositoryHelper.cpp",
+			"MU"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/InMemoryRepository.cpp",
+			"MU"
+		],
+		[
+			"/Users/ioana/Documents/Sem2/OOP/Assigment12/InMemoryRepositoryHelper.cpp",
+			"MU"
+		],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/Service.cpp", "MU" ],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/Tape.cpp", "MU" ],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/Validator.cpp", "MU" ],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/main.cpp", "MU" ],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/mylistGUI.cpp", "MU" ],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/mylistModel.cpp", "MU" ],
+		[ "/Users/ioana/Documents/Sem2/OOP/Assigment12/test.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
