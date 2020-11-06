@@ -1,4 +1,0 @@
-/Users/ioana/Documents/Sem2/OOP/PracticeForTest13/BillsBills/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ioana/Documents/Sem2/OOP/PracticeForTest13/BillsBills/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ioana/Documents/Sem2/OOP/PracticeForTest13/BillsBills/cmake-build-debug/CMakeFiles/BillsBills.dir
-/Users/ioana/Documents/Sem2/OOP/PracticeForTest13/BillsBills/cmake-build-debug/CMakeFiles/BillsBills_autogen.dir

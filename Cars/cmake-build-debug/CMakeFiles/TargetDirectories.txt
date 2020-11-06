@@ -1,4 +1,0 @@
-/Users/ioana/Documents/Sem2/OOP/test13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ioana/Documents/Sem2/OOP/test13/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ioana/Documents/Sem2/OOP/test13/cmake-build-debug/CMakeFiles/test13.dir
-/Users/ioana/Documents/Sem2/OOP/test13/cmake-build-debug/CMakeFiles/test13_autogen.dir

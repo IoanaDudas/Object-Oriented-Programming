@@ -1,6 +1,0 @@
-d, 1900, duplex, isNotHistorical
-e, 1945, 100, 90
-d, 1900, duplex, isNotHistorical
-e, 1945, 100, 90
-d, 1900, duplex, isNotHistorical
-e, 1945, 100, 90
